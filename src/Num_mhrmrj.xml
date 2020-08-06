@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="mhrmrj" xml:lang="mhr">
-<e><lg><l pos="Num">визыт</l></lg><mg><tg><t pos="Num">вызӹт</t></tg></mg></e>
-<e><lg><l pos="Num">визытын</l></lg><mg><tg><t pos="Num">вӹзӹтын</t></tg></mg></e>
-<e><lg><l pos="Num">витле</l></lg><mg><tg><t pos="Num">выцлӹ</t></tg></mg></e>
-<e><lg><l pos="Num">вич</l></lg><mg><tg><t pos="Num">вӹц</t></tg></mg></e>
-<e><lg><l pos="Num">икымше</l></lg><mg><tg><t pos="Num">икшӹ</t></tg></mg></e>
-<e><lg><l pos="Num">индеш</l></lg><mg><tg><t pos="Num">ӹндекш(ӹ)</t></tg></mg></e>
-<e><lg><l pos="Num">индеше</l></lg><mg><tg><t pos="Num">ӹндекш(ӹ)</t></tg></mg></e>
-<e><lg><l pos="Num">кандаш</l></lg><mg><tg><t pos="Num">кӓндӓкш(ӹ)</t></tg></mg></e>
-<e><lg><l pos="Num">кандаше</l></lg><mg><tg><t pos="Num">кӓндӓкш(ӹ)</t></tg></mg></e>
-<e><lg><l pos="Num">кандашын</l></lg><mg><tg><t pos="Num">кӓндӓкшӹн</t></tg></mg></e>
-<e><lg><l pos="Num">кок</l></lg><mg><tg><t pos="Num">кок(ты)</t></tg></mg></e>
-<e><lg><l pos="Num">кокымшо</l></lg><mg><tg><t pos="Num">кокшы</t></tg></mg></e>
-<e><lg><l pos="Num">кокыт</l></lg><mg><tg><t pos="Num">кок(ты)</t></tg></mg></e>
-<e><lg><l pos="Num">кумынек</l></lg><mg><tg><t pos="Num">кымынек</t></tg></mg></e>
-<e><lg><l pos="Num">кумыт</l></lg><mg><tg><t pos="Num">кымыт</t></tg></mg></e>
-<e><lg><l pos="Num">латвизыт</l></lg><mg><tg><t pos="Num">луатвӹзӹт</t></tg></mg></e>
-<e><lg><l pos="Num">латвич</l></lg><mg><tg><t pos="Num">луатвӹц</t></tg></mg></e>
-<e><lg><l pos="Num">латик</l></lg><mg><tg><t pos="Num">луатикт(ӹ)</t></tg></mg></e>
-<e><lg><l pos="Num">латикте</l></lg><mg><tg><t pos="Num">луатикт(ӹ)</t></tg></mg></e>
-<e><lg><l pos="Num">латиндеше</l></lg><mg><tg><t pos="Num">луатӹндекшӹ</t></tg></mg></e>
-<e><lg><l pos="Num">латкандаш</l></lg><mg><tg><t pos="Num">луаткӓндӓкш(ӹ)</t></tg></mg></e>
-<e><lg><l pos="Num">латкандаше</l></lg><mg><tg><t pos="Num">луаткӓндӓкш(ӹ)</t></tg></mg></e>
-<e><lg><l pos="Num">латкокыт</l></lg><mg><tg><t pos="Num">луаткок(ты)</t></tg></mg></e>
-<e><lg><l pos="Num">латкуд</l></lg><mg><tg><t pos="Num">луаткуд(ыт)</t></tg></mg></e>
-<e><lg><l pos="Num">латкудыт</l></lg><mg><tg><t pos="Num">луаткуд(ыт)</t></tg></mg></e>
-<e><lg><l pos="Num">латкум</l></lg><mg><tg><t pos="Num">луаткым(ыт)</t></tg></mg></e>
-<e><lg><l pos="Num">латкумыт</l></lg><mg><tg><t pos="Num">луаткым(ыт)</t></tg></mg></e>
-<e><lg><l pos="Num">латныл</l></lg><mg><tg><t pos="Num">луатнӹл(ӹт)</t></tg></mg></e>
-<e><lg><l pos="Num">латнылыт</l></lg><mg><tg><t pos="Num">луатнӹл(ӹт)</t></tg></mg></e>
-<e><lg><l pos="Num">латшым</l></lg><mg><tg><t pos="Num">луатшӹм(ӹт)</t></tg></mg></e>
-<e><lg><l pos="Num">латшымыт</l></lg><mg><tg><t pos="Num">луатшӹм(ӹт)</t></tg></mg></e>
-<e><lg><l pos="Num">нылле</l></lg><mg><tg><t pos="Num">ныллӹ</t></tg></mg></e>
-<e><lg><l pos="Num">тӱжем</l></lg><mg><tg><t pos="Num">тыжем</t></tg></mg></e>
-<e><lg><l pos="Num">шым</l></lg><mg><tg><t pos="Num">шым(ӹт)</t></tg></mg></e>
-<e><lg><l pos="Num">шым</l></lg><mg><tg><t pos="Num">шӹм</t></tg></mg></e>
-<e><lg><l pos="Num">шымыт</l></lg><mg><tg><t pos="Num">шым(ӹт)</t></tg></mg></e>
-<e><lg><l pos="Num">шымытын</l></lg><mg><tg><t pos="Num">шӹмӹтын</t></tg></mg></e>
-<e><lg><l pos="Num">кандашле</l></lg><mg><tg><t pos="Num">кӓндӓкшлу</t></tg></mg></e>
-<e><lg><l pos="Num">коло</l></lg><mg><tg><t pos="Num">коклы</t></tg></mg></e>
-<e><lg><l pos="Num">кудло</l></lg><mg><tg><t pos="Num">кудлу</t></tg></mg></e>
-<e><lg><l pos="Num">кумло</l></lg><mg><tg><t pos="Num">кымлы</t></tg></mg></e>
-<e><lg><l pos="Num">кумшо</l></lg><mg><tg><t pos="Num">кымшы</t></tg></mg></e>
-<e><lg><l pos="Num">лучко</l></lg><mg><tg><t pos="Num">луцкы</t></tg></mg></e>
-<e><lg><l pos="Num">шымле</l></lg><mg><tg><t pos="Num">шымлу</t></tg></mg></e>
-<e><lg><l pos="Num">шӱдӧ</l></lg><mg><tg><t pos="Num">шӱдӹ</t></tg></mg></e>
+<e><lg><l pos="Num">визыт</l></lg><mg><tg xml:lang="mrj"><t pos="Num">вызӹт</t></tg></mg></e>
+<e><lg><l pos="Num">визытын</l></lg><mg><tg xml:lang="mrj"><t pos="Num">вӹзӹтын</t></tg></mg></e>
+<e><lg><l pos="Num">витле</l></lg><mg><tg xml:lang="mrj"><t pos="Num">выцлӹ</t></tg></mg></e>
+<e><lg><l pos="Num">вич</l></lg><mg><tg xml:lang="mrj"><t pos="Num">вӹц</t></tg></mg></e>
+<e><lg><l pos="Num">икымше</l></lg><mg><tg xml:lang="mrj"><t pos="Num">икшӹ</t></tg></mg></e>
+<e><lg><l pos="Num">индеш</l></lg><mg><tg xml:lang="mrj"><t pos="Num">ӹндекш(ӹ)</t></tg></mg></e>
+<e><lg><l pos="Num">индеше</l></lg><mg><tg xml:lang="mrj"><t pos="Num">ӹндекш(ӹ)</t></tg></mg></e>
+<e><lg><l pos="Num">кандаш</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кӓндӓкш(ӹ)</t></tg></mg></e>
+<e><lg><l pos="Num">кандаше</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кӓндӓкш(ӹ)</t></tg></mg></e>
+<e><lg><l pos="Num">кандашын</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кӓндӓкшӹн</t></tg></mg></e>
+<e><lg><l pos="Num">кок</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кок(ты)</t></tg></mg></e>
+<e><lg><l pos="Num">кокымшо</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кокшы</t></tg></mg></e>
+<e><lg><l pos="Num">кокыт</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кок(ты)</t></tg></mg></e>
+<e><lg><l pos="Num">кумынек</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кымынек</t></tg></mg></e>
+<e><lg><l pos="Num">кумыт</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кымыт</t></tg></mg></e>
+<e><lg><l pos="Num">латвизыт</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луатвӹзӹт</t></tg></mg></e>
+<e><lg><l pos="Num">латвич</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луатвӹц</t></tg></mg></e>
+<e><lg><l pos="Num">латик</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луатикт(ӹ)</t></tg></mg></e>
+<e><lg><l pos="Num">латикте</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луатикт(ӹ)</t></tg></mg></e>
+<e><lg><l pos="Num">латиндеше</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луатӹндекшӹ</t></tg></mg></e>
+<e><lg><l pos="Num">латкандаш</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луаткӓндӓкш(ӹ)</t></tg></mg></e>
+<e><lg><l pos="Num">латкандаше</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луаткӓндӓкш(ӹ)</t></tg></mg></e>
+<e><lg><l pos="Num">латкокыт</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луаткок(ты)</t></tg></mg></e>
+<e><lg><l pos="Num">латкуд</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луаткуд(ыт)</t></tg></mg></e>
+<e><lg><l pos="Num">латкудыт</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луаткуд(ыт)</t></tg></mg></e>
+<e><lg><l pos="Num">латкум</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луаткым(ыт)</t></tg></mg></e>
+<e><lg><l pos="Num">латкумыт</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луаткым(ыт)</t></tg></mg></e>
+<e><lg><l pos="Num">латныл</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луатнӹл(ӹт)</t></tg></mg></e>
+<e><lg><l pos="Num">латнылыт</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луатнӹл(ӹт)</t></tg></mg></e>
+<e><lg><l pos="Num">латшым</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луатшӹм(ӹт)</t></tg></mg></e>
+<e><lg><l pos="Num">латшымыт</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луатшӹм(ӹт)</t></tg></mg></e>
+<e><lg><l pos="Num">нылле</l></lg><mg><tg xml:lang="mrj"><t pos="Num">ныллӹ</t></tg></mg></e>
+<e><lg><l pos="Num">тӱжем</l></lg><mg><tg xml:lang="mrj"><t pos="Num">тыжем</t></tg></mg></e>
+<e><lg><l pos="Num">шым</l></lg><mg><tg xml:lang="mrj"><t pos="Num">шым(ӹт)</t></tg></mg></e>
+<e><lg><l pos="Num">шым</l></lg><mg><tg xml:lang="mrj"><t pos="Num">шӹм</t></tg></mg></e>
+<e><lg><l pos="Num">шымыт</l></lg><mg><tg xml:lang="mrj"><t pos="Num">шым(ӹт)</t></tg></mg></e>
+<e><lg><l pos="Num">шымытын</l></lg><mg><tg xml:lang="mrj"><t pos="Num">шӹмӹтын</t></tg></mg></e>
+<e><lg><l pos="Num">кандашле</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кӓндӓкшлу</t></tg></mg></e>
+<e><lg><l pos="Num">коло</l></lg><mg><tg xml:lang="mrj"><t pos="Num">коклы</t></tg></mg></e>
+<e><lg><l pos="Num">кудло</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кудлу</t></tg></mg></e>
+<e><lg><l pos="Num">кумло</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кымлы</t></tg></mg></e>
+<e><lg><l pos="Num">кумшо</l></lg><mg><tg xml:lang="mrj"><t pos="Num">кымшы</t></tg></mg></e>
+<e><lg><l pos="Num">лучко</l></lg><mg><tg xml:lang="mrj"><t pos="Num">луцкы</t></tg></mg></e>
+<e><lg><l pos="Num">шымле</l></lg><mg><tg xml:lang="mrj"><t pos="Num">шымлу</t></tg></mg></e>
+<e><lg><l pos="Num">шӱдӧ</l></lg><mg><tg xml:lang="mrj"><t pos="Num">шӱдӹ</t></tg></mg></e>
 </r>

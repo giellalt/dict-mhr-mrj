@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <r id="mhrmrj" xml:lang="mhr">
-<e><lg><l pos="Pcle">витне</l></lg><mg><tg><t>виднӹ</t></tg></mg></e>
-<e><lg><l pos="Pcle">иже</l></lg><mg><tg><t>ижӹ</t></tg></mg></e>
-<e><lg><l pos="Pcle">кеч</l></lg><mg><tg><t>хоть</t></tg></mg></e>
-<e><lg><l pos="Pcle">конешне</l></lg><mg><tg><t>конечно</t></tg></mg></e>
-<e><lg><l pos="Pcle">можыч</l></lg><mg><tg><t>можыт</t></tg></mg></e>
-<e><lg><l pos="Pcle">пуйто</l></lg><mg><tg><t>вуйта</t></tg></mg></e>
-<e><lg><l pos="Pcle">тожо</l></lg><mg><tg><t>тоже</t></tg></mg></e>
-<e><lg><l pos="Pcle">туге</l></lg><mg><tg><t>тенге</t></tg></mg></e>
-<e><lg><l pos="Pcle">уна</l></lg><mg><tg><t>хына</t></tg></mg></e>
+<e><lg><l pos="Pcle">витне</l></lg><mg><tg xml:lang="mrj"><t>виднӹ</t></tg></mg></e>
+<e><lg><l pos="Pcle">иже</l></lg><mg><tg xml:lang="mrj"><t>ижӹ</t></tg></mg></e>
+<e><lg><l pos="Pcle">кеч</l></lg><mg><tg xml:lang="mrj"><t>хоть</t></tg></mg></e>
+<e><lg><l pos="Pcle">конешне</l></lg><mg><tg xml:lang="mrj"><t>конечно</t></tg></mg></e>
+<e><lg><l pos="Pcle">можыч</l></lg><mg><tg xml:lang="mrj"><t>можыт</t></tg></mg></e>
+<e><lg><l pos="Pcle">пуйто</l></lg><mg><tg xml:lang="mrj"><t>вуйта</t></tg></mg></e>
+<e><lg><l pos="Pcle">тожо</l></lg><mg><tg xml:lang="mrj"><t>тоже</t></tg></mg></e>
+<e><lg><l pos="Pcle">туге</l></lg><mg><tg xml:lang="mrj"><t>тенге</t></tg></mg></e>
+<e><lg><l pos="Pcle">уна</l></lg><mg><tg xml:lang="mrj"><t>хына</t></tg></mg></e>
 </r>
